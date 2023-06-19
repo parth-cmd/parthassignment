@@ -1,0 +1,49 @@
+.f-bg
+{
+    /* width: 50%; */
+    height: auto;
+    align-items: center;
+    background-color: blanchedalmond;
+}
+.center{
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+    background-color: #9cbc2c   ;
+}
+.f-field{
+    background-color: #ddeea2;
+    margin: auto;
+    height: auto;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 3px;    
+}
+
+.f-input-fild{
+    margin-left: 80px;
+}
+img{
+    height: 10px;
+    width: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.btn{
+    margin-left: 40%;
+    margin-top: 10px;
+    border-radius: 15px;
+    font-size: 20px;
+    color: white;
+    background-color: #3e3131;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 35px;
+    
+}
+.t-field{
+    width: 50%;
+    height: auto;
+    background-color: black;
+}
